@@ -22,3 +22,13 @@
 ```bash
 pip install -r requirements.txt
 python main.py
+hw04/
+├── 1_llm_text/          # 任务一：大模型生成文稿
+│   └── generated_text.md
+├── 2_clone_audio/       # 任务二：剪映声音克隆（存放音频/视频）
+├── 3_asr/               # 任务三：语音识别
+│   ├── asr_report.md    # ASR方案对比报告
+│   ├── main.py          # 可运行识别代码
+│   ├── requirements.txt # 依赖
+│   └── experiment.md    # 实验记录
+└── README.md            # 作业总说明
